@@ -10,7 +10,7 @@
 
 <hr />
 
-### Languages/Tools
+### Languages/Tools 🔧
 
 - Javascript
 - HTML & CSS
@@ -19,6 +19,6 @@
 
 <hr />
 
-## Github Stats
+## Github Stats 📋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndresBz-Dev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
